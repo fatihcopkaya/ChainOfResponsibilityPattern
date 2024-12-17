@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGqt1o49SUM9dIH46e+qX9Vff/usVkOTfyh9dYw4opDdTIpjBEtlBA9kIKaB+DfRciWNQBJ8CFoBsfJp44e5eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fcopkayaoglu\\source\\repos\\ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fcopkayaoglu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\fcopkayaoglu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\fcopkayaoglu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\fcopkayaoglu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\fcopkayaoglu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\fcopkayaoglu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ftateamcity.innova.com.tr/guestAuth/app/nuget/v1/FeedService.svc'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ftateamcity.innova.com.tr/guestAuth/app/nuget/feed/PaymentTeamFramework/PaymentTeamFrameworkFeed/v1'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ftateamcity.innova.com.tr/guestAuth/app/nuget/feed/PaymentTeamFramework/PaymentTeamFrameworkFeed/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ftateamcity.innova.com.tr/guestAuth/app/nuget/feed/PaymentTeamFramework/PaymentTeamFrameworkFeed/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://iftatcitysrv01l.innova.com.tr:82/api/v2/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
